@@ -25,23 +25,5 @@
             "name":"Samsung 12",
             "price":"35000"
         }
-    ],
-    "Orders":[
-            {
-                "id":1,
-                "date":"Samsung12",
-                "total":"35565"
-            },
-            {
-                "id":2,
-                "date":"08/05/2023",
-                "total":"35852"
-            },
-            {
-                "id":3,
-                "date":"Samsung13",
-                "total":"35055"
-            }
-        
     ]
 }
