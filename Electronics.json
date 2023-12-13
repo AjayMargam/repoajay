@@ -1,0 +1,47 @@
+{
+    "Products":[
+        {
+            "id":1,
+            "name":"Samsung 13",
+            "price":"35000"
+        },
+        {
+            "id":2,
+            "name":"Samsung 10",
+            "price":"35000"
+        },
+        {
+            "id":3,
+            "name":"Samsung 11",
+            "price":"35000"
+        },
+        {
+            "id":4,
+            "name":"Samsung 9",
+            "price":"35000"
+        },
+        {
+            "id":5,
+            "name":"Samsung 12",
+            "price":"35000"
+        }
+    ],
+    "Orders":[
+            {
+                "id":1,
+                "date":"Samsung12",
+                "total":"35565"
+            },
+            {
+                "id":2,
+                "date":"08/05/2023",
+                "total":"35852"
+            },
+            {
+                "id":3,
+                "date":"Samsung13",
+                "total":"35055"
+            }
+        
+    ]
+}
